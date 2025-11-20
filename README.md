@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Tshaka Vaughn Jesse Meya:
 🔭 I’m currently working on learning various interesting concepts in coding<br>🌱 I’m currently learning Python for AI and ML and MERN stack<br>⚡ Fun fact: I love photography and video games and music
 
 
